@@ -3,7 +3,7 @@ A basic Internet of Things (IoT) project that uses ESP8266, MQ135 Air Quality Se
 
 ## Installation
 - ESP8266 Board for Arduino IDE
-- ESP8266 Library
+- CH340 Driver
 - LiquidCrystal I2C Library by Frank de Brabander
 - NTP Client Library by Fabrice Weinberg
 - WiFiNINA Library by Arduino
