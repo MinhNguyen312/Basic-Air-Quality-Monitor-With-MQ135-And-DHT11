@@ -40,3 +40,5 @@ A basic Internet of Things (IoT) project that uses ESP8266, MQ135 Air Quality Se
 - Create a variable to store your database credentials for database connection
 
 ## References
+https://github.com/mobizt/Firebase-ESP8266/tree/master#store-data
+https://github.com/blynkkk/blynk-library
