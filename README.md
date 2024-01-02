@@ -31,5 +31,12 @@ A basic Internet of Things (IoT) project that uses ESP8266, MQ135 Air Quality Se
   -  V2 is for Humidity, Data Type: Double, Units: Percentage, Min: 0, Max:100, Decimals=#.##,Default value: None
   -  V3 is for Air Quality, Data Type: String
 - After that, go back to homepage and create a device with Air Quality Monitor template
-- Go into the device info and copy your TEMPLATE_ID,TEMPLATE_NAME,AUTH_TOKEN and replace it in the code
+- Go into the device info and copy your BLYNK_TEMPLATE_ID,BLYNK_TEMPLATE_NAME,BLYNK_AUTH_TOKEN and replace it in the code
 
+## Setup Firebase
+- Create a Firebase Project
+- Create Real-time Database in Test mode
+- Copy database credentials (Web API, Database URL, Email and Password(if needed)) (You just need Web API and Database URL if anonymous sign in is available)
+- Create a variable to store your database credentials for database connection
+
+## References
