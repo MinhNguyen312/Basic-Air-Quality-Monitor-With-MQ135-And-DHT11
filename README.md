@@ -13,7 +13,7 @@ A basic Internet of Things (IoT) project that uses ESP8266, MQ135 Air Quality Se
 - Firebase Arduino Client Library for ESP8266 by mobizt
 - Firebase ESP8266 Client by mobizt
 - MQ135 Library by GeorgeK,ViliusKraujutis,..
-- Time Librayr by Michael Margolis
+- Time Library by Michael Margolis
 
 ## Devices
 - An I2C LiquidCrystal LCD Screen
